@@ -1,4 +1,4 @@
-### Hello World, My name is Fernanda and I'm a web and mobile front-end developer! 👋👩‍💻
+### Hello World, my name is Fernanda and I'm a web and mobile developer! 👋👩‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandabonfimm&show_icons=true&theme=radical)
 
